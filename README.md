@@ -1,4 +1,4 @@
-### 💼 Data Science Salaries — Exploratory Data Analysis
+# 💼 Data Science Salaries — Exploratory Data Analysis
 
 ## 🌍 Project Overview
 
