@@ -1,6 +1,6 @@
-💼 Data Science Salaries — Exploratory Data Analysis
+### 💼 Data Science Salaries — Exploratory Data Analysis
 
-🌍 Project Overview
+## 🌍 Project Overview
 
 A visual deep dive into global Data Science Salaries (2020–2025) — exploring how experience, company size, location, and remote work shape compensation across the data industry.
 This EDA transforms raw salary data into a story of growth, opportunity, and global trends.
