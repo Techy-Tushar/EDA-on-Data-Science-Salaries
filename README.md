@@ -26,8 +26,7 @@ This EDA transforms raw salary data into a story of **growth, opportunity, and g
 ---
 
 ## ✨ Explore the Full Notebook  
-Dive into the complete EDA — detailed visuals, trend insights, and storytelling all in one place.  
-➡️ **[Open Salaries.ipynb](Salaries(1).ipynb)**  
+Dive into the complete EDA — detailed visuals, trend insights, and storytelling all in one place.   
 
 ---
 
