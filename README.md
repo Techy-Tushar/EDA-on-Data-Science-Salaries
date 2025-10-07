@@ -7,7 +7,7 @@ This EDA transforms raw salary data into a story of growth, opportunity, and glo
 
 ## 🔍 Key Insights
 
-📈 Rising Salaries — Consistent year-over-year growth, peaking in 2024.
+📈 Rising Salaries — Consistent year-over-year growth, peaking in 2024.\n
 👨‍💼 Experience Wins — Senior professionals earn substantially higher pay.
 🏢 Medium Companies Lead — Most hiring and competitive salaries come from mid-sized firms.
 🌐 Geographic Edge — The U.S. remains the hub for top-paying data roles.
